@@ -1,0 +1,10 @@
+*~
+Thumbs.db
+*.ini
+*.pyc
+storage/*
+logs/*
+storage/files/*
+storage/cache/*
+.sonarlint/
+.vscode/
